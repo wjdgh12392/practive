@@ -9,3 +9,5 @@ for i in range(N):
         for k in range(0,r):
             new_s.append(j)
     print(''.join(new_s))
+
+print('kkkk')
